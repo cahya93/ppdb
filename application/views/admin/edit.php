@@ -379,13 +379,13 @@
             <div class="form-group row">
                 <label class="col-sm-4 col-form-label">Nama Mediator</label>
                 <div class="col-sm-8">
-                    <input type="text" class="form-control" id="nama_mediator" name="nama_mediator" value="<?= $siswa['nama_mediator']; ?>">
+                    <input type="text" class="form-control" id="nama_mediator" name="nama_mediator" value="<?= $siswa['nama_mediator']; ?>" readonly>
                 </div>
             </div>
             <div class="form-group row">
                 <label class="col-sm-4 col-form-label">Alamat Mediator</label>
                 <div class="col-sm-8">
-                    <input type="text" class="form-control" id="alamat_mediator" name="alamat_mediator" value="<?= $siswa['alamat_mediator']; ?>">
+                    <input type="text" class="form-control" id="alamat_mediator" name="alamat_mediator" value="<?= $siswa['alamat_mediator']; ?>" readonly>
                 </div>
             </div>
             <br />
