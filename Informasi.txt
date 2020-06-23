@@ -4,3 +4,8 @@ Website PPDB SMK Muhammadiyah Karangmojo
 -> Cetak Bukti Pendaftaran (pdf)
 -> Rekap siswa
 -> Export Excel
+-> Verifikasi Siswa
+-> Verifikasi Beasiswa
+
+Update 
+-> User Verifikasi
