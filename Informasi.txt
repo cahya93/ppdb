@@ -9,3 +9,4 @@ Website PPDB SMK Muhammadiyah Karangmojo Menggunakan CodeIgniter
 
 Update 
 -> User Verifikasi
+	*Lebih Khusus
