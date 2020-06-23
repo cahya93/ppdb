@@ -1,0 +1,6 @@
+Website PPDB SMK Muhammadiyah Karangmojo
+- Membuat website PPDB SMK Muh Karangmojo
+-> Pendaftaran
+-> Cetak Bukti Pendaftaran (pdf)
+-> Rekap siswa
+-> Export Excel
