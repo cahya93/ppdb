@@ -1,6 +1,11 @@
-Website PPDB SMK Muhammadiyah Karangmojo
+Website PPDB SMK Muhammadiyah Karangmojo Menggunakan CodeIgniter
 - Membuat website PPDB SMK Muh Karangmojo
 -> Pendaftaran
 -> Cetak Bukti Pendaftaran (pdf)
 -> Rekap siswa
 -> Export Excel
+-> Verifikasi Siswa
+-> Verifikasi Beasiswa
+
+Update 
+-> User Verifikasi
